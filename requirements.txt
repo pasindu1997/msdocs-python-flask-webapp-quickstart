@@ -1,1 +1,6 @@
+azure_storage==0.37.0
 Flask==2.0.2
+h5py==3.6.0
+numpy==1.22.3
+opencv_python==4.5.5.64
+tensorflow==2.8.0
